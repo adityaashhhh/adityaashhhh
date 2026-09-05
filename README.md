@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | Building intelligent systems that fuse audio, vision & sensor data</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-sharma-a65263270/" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-sharma-a65263270/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:notadityasharma21@gmail.com">
@@ -82,10 +82,10 @@ Multi-modal pet monitoring system fusing audio classification (WavLM, 89% accura
 
 `WavLM` `YOLOv11` `SMOTE` `Random Forest` `Voting Ensemble`
 
-#### 🎙️ [AI Debate Arena]()
-AI-powered debate platform where multiple LLM personas engage in structured, turn-based arguments with real-time responses and automated judging, backed by a FastAPI + Groq LLM system.
+#### 🌐 [SocialSphere](https://github.com/adityaashhhh/SocialSphere) — Real-Time Social Networking Platform
+A full-stack social networking platform with real-time capabilities. Features user profiles, posts with likes & comments, follow system, direct messaging, and instant notifications — all powered by WebSocket technology with a monorepo architecture.
 
-`React` `FastAPI` `Groq LLMs`
+`React` `Express.js` `Socket.io` `SQLite` `Drizzle ORM` `Tailwind CSS` `JWT`
 
 #### 🚦 [Traffic Sign Recognition]()
 CNN-based deep learning classifier identifying 43 traffic sign classes — a practical Computer Vision use case for autonomous driving systems.
@@ -98,7 +98,7 @@ CNN-based deep learning classifier identifying 43 traffic sign classes — a pra
 
 - 📧 notadityasharma21@gmail.com
 - 📱 9999029113
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-sharma-a65263270/)
 
 ---
 
